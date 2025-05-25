@@ -1,8 +1,10 @@
 # 💸 Renewed-Banking 2.0.0 – Frontend Overhaul by Prosir made to work with qb-target by Raccoon Development
 --🔗links
-🔗 [Buy Me a Coffee](https://ko-fi.com/ushifty)  
+
+🔗 [Buy ushifty a Coffee](https://ko-fi.com/ushifty)  
 🔗 [Join the Renewed Discord](https://discord.gg/P3RMrbwA8n)
 🔗 [my discord](http://dsc.gg/raccoondevelopment)
+🔗 [Buy Raccoon Development a Coffee](https://ko-fi.com/raccoondevelopment)
 ---
 
 ## 🎨 About This Version
@@ -49,3 +51,4 @@ All functionality, exports, and server logic come from the original [**Renewed-B
 
 If you find this UI revamp useful or use it on your server,  
 **please leave a star ⭐** — it motivates future updates and helps others discover it!
+
