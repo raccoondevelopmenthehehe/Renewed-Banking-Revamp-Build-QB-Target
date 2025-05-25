@@ -2,9 +2,13 @@
 --🔗links
 
 🔗 [Buy ushifty a Coffee](https://ko-fi.com/ushifty)  
+
 🔗 [Join the Renewed Discord](https://discord.gg/P3RMrbwA8n)
+
 🔗 [my discord](http://dsc.gg/raccoondevelopment)
+
 🔗 [Buy Raccoon Development a Coffee](https://ko-fi.com/raccoondevelopment)
+
 ---
 
 ## 🎨 About This Version
